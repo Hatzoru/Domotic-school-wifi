@@ -25,6 +25,17 @@ Developed a comprehensive IoT-based security and automation system for a school 
 <img width="1600" height="720" alt="f12" src="https://github.com/user-attachments/assets/fc31b353-37f8-4b18-892b-aac7e84b7d3f" />
 <img width="1600" height="720" alt="f13" src="https://github.com/user-attachments/assets/50075b52-8b43-440c-8aa1-d72507670875" />
 
+
+https://github.com/user-attachments/assets/91b2d987-dfe0-4988-865e-4a4c6086d439
+
+https://github.com/user-attachments/assets/7d818dd4-eb44-41aa-ba67-f8c49aaf4847
+
+https://github.com/user-attachments/assets/bbf28bc2-5f6a-4024-b993-3e6a64b0555c
+
+https://github.com/user-attachments/assets/1cd575ae-e2c3-4ddb-82bc-366e2e5e46ed
+
+
+
 ## 📝 What I Learned
 - Real-time data communication between microcontrollers and a central server.
 - Database management (SQL) and hardware-software integration.
